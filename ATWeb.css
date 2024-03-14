@@ -19,18 +19,18 @@ font-size: 21px;
 h1{
 
 font-size: 75px;
-text-decoration: underline;
+text-decoration-line: underline;
 
 }
 
 h3{
 
-    text-decoration: underline;
+    text-decoration-line: underline;
 
 }
 
 hr{
 
-border-color: black;
+border-color: rgb(0,0,0);
 
 }
