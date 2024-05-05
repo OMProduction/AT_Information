@@ -13,20 +13,20 @@ aside{
 p{
 
 font-size: 21px;
-
+font-color: grey;
     
 }
 h1{
 
 font-size: 75px;
 text-decoration-line: underline;
-
+font-color: grey;
 }
 
 h3{
 
     text-decoration-line: underline;
-
+font-color: grey;
 }
 
 hr{
@@ -38,7 +38,7 @@ border-color: rgb(0,0,0);
 h6{
 
 font-size: 15px;
-
+font-color: grey;
 }
 
 h5{
@@ -46,10 +46,10 @@ h5{
 
 font-size: 30px;
 text-decoration-line: underline;
-
+font-color: grey;
 }
 h4{
 
-
+font-color: grey;
 text-decoration-line: underline;
 }
